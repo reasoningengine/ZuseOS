@@ -27,14 +27,13 @@ from flask import Flask
 app = Flask(__name__)
 
 
-n_chunk = [] #n-gram chunks
+table = [] #n-gram chunks
 graph = {} #Graph dictionary.
 weight = {} #Weight dictionary.
 
 
 RANDOM_SEARCH = False #Add randomness to the search of the graph: True / False. If you want to explore different paths and mine more data, set this to True.
-RANDOM_SEARCH_RANDOMNESS = 8 #The level of randomness added to the vertex search.
-CHUNK_SIZE = 1 #Split the text to N chunks. Larger chunking leads to more coherent but less creative text, as well as longer outputs.
+RANDOM_SEARCH_RANDOMNESS = 8 #The level of randomness added to the vertex search. #Split the text to N chunks. Larger chunking leads to more coherent but less creative text, as well as longer outputs.
 TEXT_DATASET_LOCATION = "file.txt" #File location. Use relatively small text files at a time. You can construct loops and input many text files in parallel.
 start = "Energy" #Start node.
 visited = [] #Visited nodes.
@@ -56,7 +55,7 @@ def countCharacter(character1, string1):
         if v == character1:
             i = i+1
 
-    return i        
+    return i
 
 
 def ShannonEntropy(string1):
@@ -73,41 +72,40 @@ def ShannonEntropy(string1):
 
 
 #Split the text.
-def splitTheText():
+def splitTheText(l_message):
 
     global splitText
-    global n_chunk
-    global CHUNK_SIZE
+    global table
     
     splitText = text.split(" ")
     
-    for i in range(0, len(splitText), CHUNK_SIZE):
-        n_chunk.append(" ".join(splitText[i:i+CHUNK_SIZE]))
+    for i in range(0, len(splitText), l_message):
+        table.append(" ".join(splitText[i:i+l_message]))
 
 
 #Build a graph out of the split text.
 def buildGraph():
 
     global graph
-    global n_chunk
+    global table
     global splitText
     
     #Load the graph
-    for i in range(0, len(n_chunk)):
+    for i in range(0, len(table)):
 
-        if i < (len(n_chunk)-1):
+        if i < (len(table)-1):
         
-            if n_chunk.count(splitText[i]) == 1:
-                graph[n_chunk[i]] = [n_chunk[i+1]]
+            if table.count(splitText[i]) == 1:
+                graph[table[i]] = [table[i+1]]
                 pass
             else:
                 if splitText[i] in graph:
-                    graph[n_chunk[i]].append(n_chunk[i+1])
+                    graph[table[i]].append(table[i+1])
                 else:
-                    graph[n_chunk[i]] = [n_chunk[i+1]]
+                    graph[table[i]] = [table[i+1]]
 
         else:
-            graph[n_chunk[i]] = []
+            graph[table[i]] = []
 
 
 #Load weights.
@@ -126,7 +124,7 @@ def loadWeights():
 
 
 #Check if vertices are adjacent.
-def isAdjacent(graphObj, v1, v2):
+def adjacent(graphObj, v1, v2):
     for v in graphObj:
         if (v == v1) and (v2 in graphObj[v1]):
             return True
@@ -142,7 +140,7 @@ def adjacentToList(graphObj, vertexList):
     returnVertexList = []
     for v1 in vertexList:
         for v2 in graphObj:
-            if isAdjacent(graphObj, v1, v2):
+            if adjacent(graphObj, v1, v2):
                 returnVertexList.append(v2)
 
     return returnVertexList
@@ -204,7 +202,7 @@ def visit(vertex):
 
 
 def appendAdjacent(v1, v2):
-    if isAdjacent(graph, v1, v2):
+    if adjacent(graph, v1, v2):
         #nextNodes.append(v2)
         nextNodes.append(v2)
 
@@ -213,8 +211,7 @@ frontierBuffer = []
 frontierActivation = []
 
 #Parallel Breadth-first search. The core of the algorithm. Modify this to add changes in real time.
-def parallelSpreadingActivation():
-    global start
+def parallelSpreadingActivation(start):
     global graph
     global visited
     global frontierList
@@ -288,16 +285,22 @@ def greatestWeightPath():
     return listPath
 
 
+def reply(message):
+    return parallelSpreadingActivation(message)
+    
+    
 def main():
 
     print("Splitting text...")
-    splitTheText()
+    splitTheText(1)
     print("Building the graph...")
     buildGraph()
     print("Loading weights...")
     loadWeights()    
     print("Starting parallel spreading activation... Computing a real time greatest weight path...")
-    parallelSpreadingActivation()
+    parallelSpreadingActivation("Energy")
+
+
 
 
 if __name__ == "__main__":
