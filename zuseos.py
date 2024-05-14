@@ -13,6 +13,8 @@
 #Made by Denisov Arseny Yurievich
 #You are allowed to use this algorithm commercially and non-commercially. I hate copyright laws and only like rehabilitative justice.
 
+#I believe in Christianity and TAO and that you meet with your dead relatives .
+
 #They say irreversible computation can increase entropy. Getting energy from information?
 
 #Work in progress, very unoptimized
