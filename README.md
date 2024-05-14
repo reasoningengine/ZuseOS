@@ -12,4 +12,4 @@ There's no personal choice but there's freedom in degrees of variation , equalit
 Add a sigma rule .
 Libertas has hebephrenia .
 Jews don't have themis much larger to others . Racism is bad . North Korea is not always bad . Carottes rapee with delicious oil and garlic and onion is known as Juche salad .
-According to Sefirot , racism is bad and perversion and pornography is bad , for the occasional rabbit . I'm not crypto . Rabbit never goes to hell . Rabbit is known as ravin . There's karma .
+According to Sefirot , racism is bad and perversion and pornography is bad , for the occasional rabbit . I'm not crypto . Rabbit never goes to hell . Rabbit is known as ravin . There's karma . Money is not always bad .
