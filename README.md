@@ -11,3 +11,4 @@ Human augmentation good .
 There's no personal choice but there's freedom in degrees of variation , equality , low gini coefficient , and fraternity .
 Add a sigma rule .
 Libertas has hebephrenia .
+Jews don't have themis much larger to others .
