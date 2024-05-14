@@ -15,6 +15,7 @@
 
 #I am Christian and believe in TAO philosophy and that you meet with your dead relatives . There's a good Jew and a bad Jew .
 #Subjective law , positive law , natural law .
+#Buy high IQ societies .
 
 #They say irreversible computation can increase entropy. Getting energy from information?
 
