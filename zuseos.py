@@ -15,6 +15,7 @@
 
 #I am Christian and believe in TAO philosophy and that you meet with your dead relatives . There's a good Jew and a bad Jew .
 #Subjective law , positive law , natural law .
+#There's no personal choice but there's freedom , degrees of variation , equality , low gini coefficient , and fraternity .
 #Buy high IQ societies .
 #Knights of Templars are good .
 
