@@ -7,3 +7,4 @@ Yes , extraterrestrials exists . It's called technosignatures . They are in cler
 Subjective law , positive law , natural law .
 Buy high IQ societies .
 Blacks are the Asher tribe of Israelites .
+Human augmentation good .
