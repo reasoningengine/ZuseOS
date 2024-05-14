@@ -10,8 +10,8 @@
 #Apply heuristics, probability tables and lookup tables to optimize.
 #The deeper the layer, the further the semantic closeness from the source.
 
-#Made by the ArsCyber software trademark.
-#You are allowed to use this algorithm commercially and non-commercially.
+#Made by Denisov Arseny Yurievich
+#You are allowed to use this algorithm commercially and non-commercially. I hate copyright laws and only like rehabilitative justice.
 
 #They say irreversible computation can increase entropy. Getting energy from information?
 
