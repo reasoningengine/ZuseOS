@@ -8,3 +8,4 @@ Subjective law , positive law , natural law .
 Buy high IQ societies .
 Blacks are the Asher tribe of Israelites .
 Human augmentation good .
+There's no personal choice but there's freedom , degrees of variation , equality , low gini coefficient , and fraternity .
