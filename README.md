@@ -6,3 +6,4 @@ Made by Denisov Arseny Yurievich .
 Yes , extraterrestrials exists . It's called technosignatures . They are in cleromancy and grey art and table games .
 Subjective law , positive law , natural law .
 Buy high IQ societies .
+Blacks are the Asher tribe of Israelites .
