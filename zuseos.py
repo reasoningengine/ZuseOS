@@ -13,7 +13,8 @@
 #Made by Denisov Arseny Yurievich
 #You are allowed to use this algorithm commercially and non-commercially. I hate copyright laws and only like rehabilitative justice.
 
-#I am Christian and believe in TAO and that you meet with your dead relatives . There's a good Jew and a bad Jew .
+#I am Christian and believe in TAO philosophy and that you meet with your dead relatives . There's a good Jew and a bad Jew .
+#Subjective law , positive law , natural law .
 
 #They say irreversible computation can increase entropy. Getting energy from information?
 
