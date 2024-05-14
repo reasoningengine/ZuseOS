@@ -12,3 +12,4 @@ There's no personal choice but there's freedom in degrees of variation , equalit
 Add a sigma rule .
 Libertas has hebephrenia .
 Jews don't have themis much larger to others . Racism is bad . North Korea is not always bad . Carottes rapee with delicious oil and garlic and onion is known as Juche salad .
+According to Sefirot , racism is bad . I'm not crypto .
