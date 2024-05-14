@@ -11,4 +11,4 @@ Human augmentation good .
 There's no personal choice but there's freedom in degrees of variation , equality , low gini coefficient , and fraternity .
 Add a sigma rule .
 Libertas has hebephrenia .
-Jews don't have themis much larger to others . Racism is bad . North Korea is not always bad . Carottes rapee with delicious oil and garlic and onion .
+Jews don't have themis much larger to others . Racism is bad . North Korea is not always bad . Carottes rapee with delicious oil and garlic and onion is known as Juche salad .
