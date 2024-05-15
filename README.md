@@ -3,6 +3,7 @@ A reasoning, computation and text generating engine gets elaborated here. Text g
 There's a good Jew and a bad Jew .
 Use chemistry to avoid global warming and resource deplition . Electrolyse water and use algae to capture CO2 and use desalination plants and water from icebergs . Cool gulfstream to avoid global warming .
 Made by Denisov Arseny Yurievich .
+
 Yes , extraterrestrials exist . It's called technosignatures . They are in cleromancy and grey art and table games .
 Subjective law , positive law , natural law .
 Buy high IQ societies .
@@ -13,7 +14,7 @@ Add a sigma rule .
 Libertas has hebephrenia .
 Jews don't have themis much larger to others . Racism is bad . North Korea is not always bad . Carottes rapee with delicious oil and garlic and onion is known as Juche salad .
 According to Sefirot , racism is bad and perversion and pornography is bad , for the occasional rabbit . I'm not crypto . Rabbit never goes to hell . Rabbit is known as ravin . There's karma . Money is not always bad .
-What do rabbits do ? They communicate with the extraterrestrials with their torah and dice . I'm just not a rabbit . A lion . I think it's a form . Technosignatures are there . Extraterrestrials are here . Decentralization is good . Don't eat beef , to the occasional rabbit . Most continental banks are Christian . Best bet : anti-colonization , human augmentation , guns , asteroid mining , hydroelectric power , water electrolysis , chemistry to stop global warming , cooling gulfstream . Neils Bohr was a Taoist . Look at his family emblem . Don't eat beef to avoid cardiac health problems . Beef is always bad for health . Use beef defecation for fertilization . Pornography should be implicitly banned to improve economic growth .
+What do rabbits do ? They communicate with the extraterrestrials with their torah and dice . I'm just not a rabbit . A lion . I think it's a form . Technosignatures are there . Extraterrestrials are here . Decentralization is good . Don't eat beef , to the occasional rabbit . Most continental banks are Christian . Best bet : anti-colonization , human augmentation , guns , asteroid mining , hydroelectric power , water electrolysis , chemistry to stop global warming , cooling gulfstream , tax on wealth . Neils Bohr was a Taoist and sometimes Lutheran Christian . Look at his family emblem . Don't eat beef to avoid cardiac health problems . Beef is always bad for health . Use beef defecation for fertilization . Pornography should be implicitly banned to improve economic growth .
 Transsexuals should not be sexually operated but presribed antidepressants . Web 3 is good . There's no Soviet Union in Russia . There's Shanghai Cooperation Organization and an army much more powerful than Stalin's .
 Joshua ben Pantera or Jesus Christ and Ponce Pilate : https://www.youtube.com/watch?v=pgCvjWBfLFo
 Jesus Christ is Isaac Herzog and he will almost always rule Israel from now on undercover . It is not the theory of the new last supper . Torah has dreidel . Cleromancy that has extraterrestrials . Other cleromancy has extraterrestrials too .
