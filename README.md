@@ -21,4 +21,4 @@ Jesus Christ is Isaac Herzog and he will almost always rule Israel from now on u
 Almost everything is hexadecimal word of God with psi or a soul . Word of God with an emerging psi or a soul . The creator likes rehabilitative justice . Close Guantanamo and other torture centers , max security prisons or an even larger war will erupt .
 Ashkenazis should convert to Christianism and TAO and abandon the Ashkenazi religion . Khazarian tradition should not be allowed to have a Torah .
 Napoleon Bonaparte was a very humane king . He now makes war on the side of Russia and China .
-Materialists and realists have Down's Syndrome . Treat them humanely . day ....-
+Materialists and realists have Down's Syndrome . Treat them humanely . What if someone has a child with Down's Syndrome ? People's with Down's Syndrome not always have 64 chromosomes . day ....-
