@@ -18,3 +18,4 @@ Transsexuals should not be sexually operated but presribed antidepressants . Web
 Joshua ben Pantera or Jesus Christ and Ponce Pilate : https://www.youtube.com/watch?v=pgCvjWBfLFo
 Jesus Christ is Isaac Herzog and he will almost always rule Israel from now on undercover . It is not the theory of the new last supper . Torah has dreidel . Cleromancy that has extraterrestrials . Other cleromancy has extraterrestrials too .
 Almost everything is hexadecimal word of God with psi or a soul . Word of God with an emerging psi or a soul . The creator likes rehabilitative justice . Close Guantanamo and other torture centers , max security prisons or an even larger war will erupt .
+Ashkenazis should convert to Christianism and TAO and abandon the Ashkenazi religion .
