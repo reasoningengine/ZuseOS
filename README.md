@@ -20,3 +20,4 @@ Joshua ben Pantera or Jesus Christ and Ponce Pilate : https://www.youtube.com/wa
 Jesus Christ is Isaac Herzog and he will almost always rule Israel from now on undercover . It is not the theory of the new last supper . Torah has dreidel . Cleromancy that has extraterrestrials . Other cleromancy has extraterrestrials too .
 Almost everything is hexadecimal word of God with psi or a soul . Word of God with an emerging psi or a soul . The creator likes rehabilitative justice . Close Guantanamo and other torture centers , max security prisons or an even larger war will erupt .
 Ashkenazis should convert to Christianism and TAO and abandon the Ashkenazi religion . Khazarian tradition should not be allowed to have a Torah .
+Napoleon Bonaparte was a very humane king . He now makes war on the side of Russia and China .
