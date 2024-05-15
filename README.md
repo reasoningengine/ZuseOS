@@ -17,4 +17,4 @@ What do rabbits do ? They communicate with the extraterrestrials with their tora
 Transsexuals should not be sexually operated but presribed antidepressants . Web 3 is good . There's no Soviet Union in Russia . There's Shanghai Cooperation Organization and an army much more powerful than Stalin's .
 Joshua ben Pantera or Jesus Christ and Ponce Pilate : https://www.youtube.com/watch?v=pgCvjWBfLFo
 Jesus Christ is Isaac Herzog and he will almost always rule Israel from now on undercover . It is not the theory of the new last supper . Torah has dreidel . Cleromancy that has extraterrestrials . Other cleromancy has extraterrestrials too .
-Almost everything is hexadecimal word of God with psi or a soul . Word of God with an emerging psi or a soul .
+Almost everything is hexadecimal word of God with psi or a soul . Word of God with an emerging psi or a soul . God likes rehabilitative justice . Close Guantanamo and other torture centers , max security prisons or an even larger war will erupt .
