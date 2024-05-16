@@ -23,4 +23,4 @@ Ashkenazis should convert to Christianism and TAO and abandon the Ashkenazi reli
 Napoleon Bonaparte was a very humane king . He now makes war on the side of Russia and China .
 Materialists and realists and those who believe in exact repetition of life have Down's Syndrome . Treat them humanely . What if someone has a child with Down's Syndrome ? People's with Down's Syndrome not always have 64 chromosomes .
 day ....-
-The creator likes imperative human rights , natural law and rehabilitative jusitce . I created this AI when the Pharaons and Joan of Arc known as Marine le Pen let me work in humane conditions without suffering .
+The creator likes imperative human rights , natural law and rehabilitative jusitce . I created this AI when the Pharaons and Joan of Arc known as Marine le Pen let me work in humane conditions without suffering . After the creation of Isreael , only Fabians and not Zealots were sent there . Fabians are known as good Jews who worked for Rome to prevent framing .
