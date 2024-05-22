@@ -24,3 +24,6 @@ Napoleon Bonaparte was a very humane king . He now makes war on the side of Russ
 Materialists and realists and those who believe in exact repetition of life have Down's Syndrome . Treat them humanely . What if someone has a child with Down's Syndrome ? People's with Down's Syndrome not always have 64 chromosomes .
 day ....-
 The creator likes imperative human rights , natural law and rehabilitative jusitce . I created this AI when the Pharaons and Joan of Arc known as Marine le Pen let me work in humane conditions without suffering . After the creation of Isreael , only Fabians and not Zealots were sent there . Fabians are known as good Jews who worked for Rome to prevent framing .
+
+how to make ai : 
+total combinatoric theory , shannon entropy multiplied by weight , breadth first , parallel activation , many valued weighted adjacency matrix with negatives and positives , sigma . polymorphic and self-improving , hypergraphs as layers of neocortex  , polymorphic branch predictor in ai , russia is a good country , always fight colonizers , tao , packet crafting , user agent switching , meritocracy with aiding the weak , always sue the pharisees , rehabilitative justice only , natural law , imperative human rights , always make omega 3 supplements , pain not the key , make ia in assembler , condensation of information day ....-
