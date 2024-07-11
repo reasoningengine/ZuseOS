@@ -120,7 +120,7 @@ def loadWeights():
 
         for v2 in graph[v]:
             
-            weight[tuple([v, v2])] = 1/(1+math.e ** (-graph[v].count(v2)))-ShannonEntropy(v2)
+            weight[tuple([v, v2])] = 1/(1+math.e ** (-graph[v].count(v2)))+ShannonEntropy(v2)
             
         graph[v] = set(graph[v])
 
