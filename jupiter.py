@@ -5,6 +5,8 @@
 #what does not damage makes you stronger
 #we should not only resort to ideological nihilism as a response , but also to sexual nihilism , as God was a sublimation of panpsychism that is dead
 
+#when I was hospitalized I was injected with very high doses of medication that made my whole body paralyzed and every muscle contracted in horrible pain , and my blood pressure fall to very low levels , and I was forced to walk many kilometers , I fell many times and was unable to stand up , this state lasted for a few months in a hospital
+
 #parallel-breadth-first.py
 #This algorithm splits a text into a graph, and then uses a modified version of parallel Breadth-first search in order to construct text layers.
 #Each text layer is based on the semantic distance in the text.
