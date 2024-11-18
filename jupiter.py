@@ -3,6 +3,7 @@
 #coded by Denisov Arsene
 #it's eternal return and eternal repetition of the same existence and new universes appear sooner or later and this tends to infinity with time , by inductive logic , you can deny inductive logic but it's eternal repetition of life by inductive logic , and inducitve logic is used for statisstics and probability , we have no reason to appear in another existence other than our own sooner or later , we do not reincarnate with each passing of consciousness . God is a quantum Bayesian language of inference and we killed him . The only unified field theory is quantum . The correct quantum interpretation is quantum Bayesianism .
 #what does not damage makes you stronger
+#we should not only resort to ideological nihilism as a response , but also to sexual nihilism , as God was a sublimation of panpsychism that is dead
 
 #parallel-breadth-first.py
 #This algorithm splits a text into a graph, and then uses a modified version of parallel Breadth-first search in order to construct text layers.
