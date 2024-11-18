@@ -1,3 +1,6 @@
+#jupiter.py
+#a cognitive spreading activation based artificial intelligence algorithm that requires very little time to train , and that can be used for applications ranging from military to processor branch prediction and chatbots
+#coded by Denisov Arsene
 #parallel-breadth-first.py
 #This algorithm splits a text into a graph, and then uses a modified version of parallel Breadth-first search in order to construct text layers.
 #Each text layer is based on the semantic distance in the text.
