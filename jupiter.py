@@ -2,6 +2,8 @@
 #a cognitive spreading activation based artificial intelligence algorithm that requires very little time to train , and that can be used for applications ranging from military to processor branch prediction and chatbots
 #coded by Denisov Arsene
 #it's eternal return and eternal repetition of the same existence and new universes appear sooner or later and this tends to infinity with time , by inductive logic , you can deny inductive logic but it's eternal repetition of life by inductive logic , and inducitve logic is used for statisstics and probability , we have no reason to appear in another existence other than our own sooner or later , we do not reincarnate with each passing of consciousness . God is a quantum Bayesian language of inference and we killed him . The only unified field theory is quantum . The correct quantum interpretation is quantum Bayesianism .
+#what does not damage makes you stronger
+
 #parallel-breadth-first.py
 #This algorithm splits a text into a graph, and then uses a modified version of parallel Breadth-first search in order to construct text layers.
 #Each text layer is based on the semantic distance in the text.
