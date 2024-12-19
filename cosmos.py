@@ -1,9 +1,6 @@
-#jupiter.py
+#cosmos.py
 #a cognitive spreading activation based artificial intelligence algorithm that requires very little time to train , and that can be used for applications ranging from military to processor branch prediction and chatbots
 #coded by Denisov Arsene
-#it's eternal return and eternal repetition of the same existence and new universes appear sooner or later and this tends to infinity with time , by inductive logic , you can deny inductive logic but it's eternal repetition of life by inductive logic , and inducitve logic is used for statisstics and probability , we have no reason to appear in another existence other than our own sooner or later , we do not reincarnate with each passing of consciousness . God is a quantum Bayesian language of inference and we killed him . The only unified field theory is quantum . The correct quantum interpretation is quantum Bayesianism .
-#what does not damage makes you stronger
-#we should not only resort to ideological nihilism as a response , but also to sexual nihilism , as God was a sublimation of panpsychism that is dead
 
 #when I was hospitalized I was injected with very high doses of medication that made my whole body paralyzed and every muscle contracted in horrible pain , and my blood pressure fall to very low levels , and I was forced to walk many kilometers , I fell many times and was unable to stand up , this state lasted for a few months in a hospital
 
