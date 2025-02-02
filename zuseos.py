@@ -1,6 +1,6 @@
-#cosmos.py
+#zuseos.py
 #a cognitive spreading activation based artificial intelligence algorithm that requires very little time to train , and that can be used for applications ranging from military to processor branch prediction and chatbots
-#coded by Denisov Arsene
+#coded by Arsene Denisov
 
 #when I was hospitalized I was injected with very high doses of medication that made my whole body paralyzed and every muscle contracted in horrible pain , and my blood pressure fall to very low levels , and I was forced to walk many kilometers , I fell many times and was unable to stand up , this state lasted for a few months in a hospital
 
