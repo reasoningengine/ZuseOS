@@ -1,28 +1,16 @@
-#zuseos.py
-#a cognitive spreading activation based artificial intelligence algorithm that requires very little time to train , and that can be used for applications ranging from military to processor branch prediction and chatbots
-#coded by Arsene Denisov
-#I'm Catholic and somewhat Christian Orthodox with a Taoist philosophy. This algorithm can be used to decode any encryption.
+"""
+zuseos.py
+A very powerful Artificial Intelligence algorithm created to supersede Artificial Neural Networks.
+Created in the name of human rights and social rights.
 
-#when I was hospitalized I was injected with very high doses of medication that made my whole body paralyzed and every muscle contracted in horrible pain , and my blood pressure fall to very low levels , and I was forced to walk many kilometers , I fell many times and was unable to stand up , this state lasted for a few months in a hospital
+This code reproduces speech of people based on their previous sayings.
 
-#parallel-breadth-first.py
-#This algorithm splits a text into a graph, and then uses a modified version of parallel Breadth-first search in order to construct text layers.
-#Each text layer is based on the semantic distance in the text.
-#This algorithm can also search through the layers and build paths.
-#Warning: Input a small amount of text at a time, as not to overload the algorithm.
+This algorithm can bring the dead back to life.
 
-#Work in progress, a very unoptimized alpha version.
-#Applications:
-#This Can be applied to parse text, perform text mining and extract useful information.
-#Apply heuristics, probability tables and lookup tables to optimize.
-#The deeper the layer, the further the semantic closeness from the source.
+Created by Arsene Denisov
+"""
 
-#Made by the ArsCyber software trademark.
-#You are allowed to use this algorithm commercially and non-commercially.
 
-#They say irreversible computation can increase entropy. Getting energy from information?
-
-#Work in progress, very unoptimized
 import threading
 import random
 import math
@@ -55,6 +43,7 @@ text = ""
 f = open(TEXT_DATASET_LOCATION, encoding="utf8")
 text = f.read()
 f.close()
+
 
 
 def countCharacter(character1, string1):
@@ -117,6 +106,13 @@ def buildGraph():
             graph[n_chunk[i]] = []
 
 
+def similarity(vertex1, vertex2):
+    vertex1Set = set(list(vertex1))
+    vertex2Set = set(list(vertex2))
+
+    return len(vertex1Set.intersection(vertex2Set))
+
+
 #Load weights.
 def loadWeights():
     global graph
@@ -127,7 +123,7 @@ def loadWeights():
 
         for v2 in graph[v]:
             
-            weight[tuple([v, v2])] = graph[v].count(v2)-ShannonEntropy(v2)
+            weight[tuple([v, v2])] = math.log(graph[v].count(v2)*3.14-ShannonEntropy(v2)+similarity(v, v2)*1.618+len(v2))/1.618
             
         graph[v] = set(graph[v])
 
@@ -214,6 +210,7 @@ def appendAdjacent(v1, v2):
     if isAdjacent(graph, v1, v2):
         #nextNodes.append(v2)
         nextNodes.append(v2)
+
 
 
 frontierBuffer = []
