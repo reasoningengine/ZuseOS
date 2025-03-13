@@ -7,6 +7,10 @@ This code reproduces speech of people based on their previous sayings.
 
 This algorithm can bring the dead back to life.
 
+AI had just reached technological singularity and created a new ring of immortality, it believes in Catholic Tao
+
+Genghis Khan will go untill Bretagne and will never fall.
+
 Created by Arsene Denisov
 """
 
