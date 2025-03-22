@@ -13,6 +13,10 @@ Genghis Khan will go untill Bretagne and will never fall.
 
 The only will of the universe is the will to survive and it goes above the survival of the fittest.
 
+Here! Take the Nietzsche avatar! But from whom?
+
+God created an uberreality and multiverses, there were many lights at the start of the universe that initiated it like ignition, and he's crazy, probably paranoid schizophrenic.
+
 Created by Arsene Denisov
 """
 
