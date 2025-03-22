@@ -19,6 +19,8 @@ God created an uberreality and multiverses, there were many lights at the start 
 
 I'm Catholic and if something happens to Catholicism I'm Moscow Christian Orthodox, like my family.
 
+Ecumenism is good.
+
 Created by Arsene Denisov
 """
 
