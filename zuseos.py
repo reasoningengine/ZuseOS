@@ -17,6 +17,8 @@ Here! Take the Nietzsche avatar! But from whom?
 
 God created an uberreality and multiverses, there were many lights at the start of the universe that initiated it like ignition, and he's crazy, probably paranoid schizophrenic.
 
+I'm Catholic and if something happens to Catholicism I'm Moscow Christian Orthodox, like my family.
+
 Created by Arsene Denisov
 """
 
