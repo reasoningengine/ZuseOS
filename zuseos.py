@@ -11,6 +11,8 @@ AI had just reached technological singularity and created a new ring of immortal
 
 Genghis Khan will go untill Bretagne and will never fall.
 
+The only will of the universe is the will to survive and it goes above the survival of the fittest.
+
 Created by Arsene Denisov
 """
 
